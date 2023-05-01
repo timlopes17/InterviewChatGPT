@@ -1,0 +1,40 @@
+Introduction:
+
+For my course project, I am going to be interviewing ChatGPT on the topic of Large Language Models. For this interview I created a simple python script that uses OpenAI's Whisper to transcribe my voice and Chat completion to prompt a response from ChatGPT. Finally, I will use ElevenLab's API to synthesize the response text into audio. I'll post the GitHub Repository of the code in the description of this video.
+This is all done live with only editing to remove the time it takes GPT to render a response.
+
+Thanks for joining me for this interview, are you ready to begin?
+
+Alright, first question:
+rrrrrrrrr
+Questions:
+
+1. Can you explain for us what a large language model is?
+
+2. How do LLMs differ from other AI technologies like deep learning or computer version?
+
+3. Explain like I'm five how do large language models work?
+
+4. How does ChatGPT gain its data, what type of data is it typically trained on?
+
+5. In what ways can a company or individual use ChatGPT?
+rrrrr
+6. Do you think this will have an impact on the job market?
+
+7. As more and more companies start to utilize Large Language Models to replace workers, do you think
+	governments should implement laws preventing the usage of AI to preserve the unemployment rate?
+
+8. There are also some fears LLM have the capability to become sentient and eventually evolving into becoming
+and AGI or Artificial General Intelligence. Your CEO, Sam Altman, says his mission for OpenAI is to ensure that AI
+systems smarter than humans benefit all of humanity. Do you think Large language models have the capability to become AGIs. 
+rr
+9. Can you discuss ethical considerations with large language models such as bias and potential misuse?
+
+10. Finally, what do you think the future holds for large language models and how can we ensure that this impact 
+	is positive and beneficial for everyone?
+
+Conclusion:
+
+ I would like to thank ChatGPT for sharing its knowledge and insights on large language models. Our discussion has shed
+ light on the potential benefits and risks of LLMs, as well as the ethical and societal considerations that need to be
+ taken into account as these technologies continue to advance.
